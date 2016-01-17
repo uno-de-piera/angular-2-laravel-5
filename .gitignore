@@ -4,3 +4,4 @@ Homestead.yaml
 Homestead.json
 .env
 /public/angular2app/node_modules
+.idea
